@@ -7,4 +7,4 @@ The hourly planner uses a 24h time format and includes placeholder text in each 
 
 This application uses HTML5, CSS, JQUERY, MOMENT, and JAVASCRIPT.
 
-![Alt text](C:/Users/dalsa/Documents/UofA-VIRT-FSF-FT-05-2022-U-LOLC/05-Third-Party-APIs/02-Challenge/Develop/index.html)
+![My Image](Pictures/ting1.png)
