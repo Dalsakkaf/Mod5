@@ -6,3 +6,5 @@ This application is an hourly day planner in which the user will be able to inpu
 The hourly planner uses a 24h time format and includes placeholder text in each block to indicate where the user can input their daily tasks.
 
 This application uses HTML5, CSS, JQUERY, MOMENT, and JAVASCRIPT.
+
+![Alt text]("C:\Users\dalsa\OneDrive\Pictures\ting1.png")
